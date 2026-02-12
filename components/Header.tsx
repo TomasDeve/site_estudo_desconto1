@@ -34,7 +34,7 @@ export const Header: React.FC = () => {
             Depoimentos
           </a>
           <a href={WHATSAPP_LINK} target="_blank" rel="noreferrer">
-            <Button size="sm" className="py-2 px-4 text-sm">Entrar no Grupo</Button>
+            <Button className="py-2 px-4 text-sm">Entrar no Grupo</Button>
           </a>
         </div>
       </div>
